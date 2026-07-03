@@ -6,7 +6,7 @@ CREATION ALLERGY
 
 这里陈列造出来的东西。不解释原理——去现场，它会亲自看你。
 
-→ https://your-domain.com <!-- 部署后替换 -->
+→ https://creation-allergy.vercel.app
 
 ## 目录
 
